@@ -5,6 +5,7 @@ title = "DMLSMETALS"
 [params]
   description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
   siteName = "DMLSMETALS"
+logoHtml = '<span class="ed-logo-accent">DMLS</span>METALS'
   tagline = "The authoritative source for metal additive manufacturing news"
 
 [taxonomies]

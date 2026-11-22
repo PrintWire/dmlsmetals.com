@@ -4,7 +4,7 @@ title = "DMLSMETALS"
 
 [params]
 ogImage       = "/images/13-batch-build-plate-overhead.png"
-  description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
+  description = "DMLS METALS is a PrintWire network site about direct metal laser sintering (DMLS). PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
   siteName = "DMLSMETALS"
 logoHtml = '<span class="ed-logo-accent">DMLS</span>METALS'
   tagline = "The authoritative source for metal additive manufacturing news"
